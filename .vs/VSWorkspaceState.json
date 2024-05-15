@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Fiorello-PB101",
+    "\\Fiorello-PB101\\Controllers",
+    "\\Fiorello-PB101\\Services",
+    "\\Fiorello-PB101\\Views",
+    "\\Fiorello-PB101\\Views\\Blog",
+    "\\Fiorello-PB101\\Views\\Home",
+    "\\Fiorello-PB101\\Views\\Product"
+  ],
+  "SelectedNode": "\\Fiorello-PB101\\Controllers\\ProductController.cs",
+  "PreviewInSolutionExplorer": false
+}
